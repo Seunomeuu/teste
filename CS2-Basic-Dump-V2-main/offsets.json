@@ -6573,27 +6573,26 @@
         "SteamAudio001": "0x2139F0"
     },
     "steamclient64_dll": {
-        "CLIENTENGINE_INTERFACE_VERSION005": "0xFFFFFFFF8BAFD69A",
-        "IVALIDATE001": "0x151D288",
-        "SteamClient006": "0x151A9B0",
-        "SteamClient007": "0x151A9B8",
-        "SteamClient008": "0x151A9C0",
-        "SteamClient009": "0x151A9C8",
-        "SteamClient010": "0x151A9D0",
-        "SteamClient011": "0x151A9D8",
-        "SteamClient012": "0x151A9E0",
-        "SteamClient013": "0x151A9E8",
-        "SteamClient014": "0x151A9F0",
-        "SteamClient015": "0x151A9F8",
-        "SteamClient016": "0x151AA00",
-        "SteamClient017": "0x151AA08",
-        "SteamClient018": "0x151AA10",
-        "SteamClient019": "0x151AA18",
-        "SteamClient020": "0x151AA20",
-        "SteamClient021": "0x151AA28",
-        "SteamClient022": "0x151AA30",
-        "p2pvoice002": "0x14E267F",
-        "p2pvoicesingleton002": "0x14F80E0"
+        "CLIENTENGINE_INTERFACE_VERSION005": "0xFFFFFFFF8BB1ADBA",
+        "IVALIDATE001": "0x15636E8",
+        "SteamClient006": "0x1560E90",
+        "SteamClient007": "0x1560E98",
+        "SteamClient008": "0x1560EA0",
+        "SteamClient009": "0x1560EA8",
+        "SteamClient010": "0x1560EB0",
+        "SteamClient011": "0x1560EB8",
+        "SteamClient012": "0x1560EC0",
+        "SteamClient013": "0x1560EC8",
+        "SteamClient014": "0x1560ED0",
+        "SteamClient015": "0x1560ED8",
+        "SteamClient016": "0x1560EE0",
+        "SteamClient017": "0x1560EE8",
+        "SteamClient018": "0x1560EF0",
+        "SteamClient019": "0x1560EF8",
+        "SteamClient020": "0x1560F00",
+        "SteamClient021": "0x1560F08",
+        "p2pvoice002": "0x14E45DF",
+        "p2pvoicesingleton002": "0x153C0E0"
     },
     "tier0_dll": {
         "TestScriptMgr001": "0x37EA80",
@@ -6612,7 +6611,7 @@
         "VScriptManager010": "0x128600"
     },
     "vstdlib_s64_dll": {
-        "IVALIDATE001": "0x6A990",
+        "IVALIDATE001": "0xABB40",
         "VEngineCvar002": "0x69070"
     },
     "worldrenderer_dll": {
